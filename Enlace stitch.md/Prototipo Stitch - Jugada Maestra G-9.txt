@@ -1,8 +1,0 @@
-Prototipo Stitch - Jugada Maestra G-9
-
-Enlace al prototipo desarrollado en Stitch:
-
-https://stitch.withgoogle.com/preview/5651990865910181171?node-id=e55fd701c427423d9b66bf8f637b0c47
-
-Descripción:
-Prototipo funcional desarrollado durante la Fase 1 para la gestión de apoderados, pagos y administración del club deportivo Jugada Maestra.
